@@ -1,0 +1,43 @@
+.header{
+    background-image: url("netflix.jpg");
+    height: 155vh;
+    width: 220vh;
+}
+.chlid{
+    border: 7px solid lightslategray;
+    width: 300px;
+    height: 100px;
+}
+.child2{
+    text-align: center;
+    color: white;
+}
+.child3{
+    border: 0px solid black;
+    height: 50px;
+    width: 380px;
+    margin-inline: 500px;
+}
+
+input{
+    height: 50px;
+    width: 380px;
+    background-color: white;
+}
+.flex3{
+    border: 2px solid black;
+    width: 1370px;
+    height: 400px;
+    margin-top: 80px;
+    padding: 50px; 
+    display: flex;
+    background-color: black;
+}
+.dv2{
+    border: 2px solid black;
+    width: 700px;
+    height: 400px;
+    flex-grow: 1;
+    margin-bottom: 180px;
+}
+
